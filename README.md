@@ -1,0 +1,2 @@
+# ZThumbnail
+ZThumbnail discord theme!
